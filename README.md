@@ -1,10 +1,13 @@
 # Criando seu Ecossistema de Big Data na Nuvem
 Repositório com instruções sobre AWS EMR e Python
+
 Neste repositório há os arquivos de configuração e execução de análise de dados.
+
+Usamos como base o DIO-LiveCoding-AWS-BigData com Cassiano Peres Instrutor, Digital Innovation One
 
 ## Prática 1: Explorando Alguns Serviços/Ferramentas
 
-Acessar
+* Acessar
 
 https://aws.amazon.com/pt/?nc2=h_lg
 
@@ -26,10 +29,32 @@ Serviços de análise da AWS
 
 Explorar e estudar Amazon EMR (Estrutura Hadoop Hospedada)
 
+# Prática 2: Visão Geral sobre a Arquitetura do Desafio
 
+* Objetivo;
 
+Implementar um cluster para processamento distribuído de dados utilizando o serviço AWS EMR com o  Haddop MapReduce MapReduce (FrameWork (Jobs)) para contar palavras em um arquivo de texto (Livro Sherlock Holmes)  armazenado no AWS S3, através de um algoritmo em Python.
 
+![image](https://user-images.githubusercontent.com/88436657/140667838-25cae859-4a3f-4c72-946b-54e7841d5bd2.png)
 
+# Prática 2: Configurando o S3 e EC2 na AWS
+
+Login “AWS Management Console”
+
+![image](https://user-images.githubusercontent.com/88436657/140668233-6a6fc0c7-57a2-4a0f-84b6-20b2565e1b0c.png)
+
+Serviço EMR
+![image](https://user-images.githubusercontent.com/88436657/140668301-f55630eb-fab4-4a37-b341-04af55e49ef5.png)
+Criação de Cluster
+
+Terminal do Linux Power Shell
+![image](https://user-images.githubusercontent.com/88436657/140668334-e0085f79-0035-4f19-9d43-c5d2f91a4a7c.png)
+
+Acessar S3
+
+Criar Buckets
+![image](https://user-images.githubusercontent.com/88436657/140668481-8ace8bcb-35f0-4b3c-965e-2177a3b4e6b3.png)
+![image](https://user-images.githubusercontent.com/88436657/140668492-8d9389b7-5ec1-4b93-b2fb-b15abfe5d0ab.png)
 
 
 
