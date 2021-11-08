@@ -1,8 +1,37 @@
-# DIO-LiveCoding-AWS-BigData
-Repositório de cógido do Dio Live Coding com AWS EMR e Python
+# Criando seu Ecossistema de Big Data na Nuvem
+Repositório com instruções sobre AWS EMR e Python
 Neste repositório há os arquivos de configuração e execução de análise de dados.
 
-## Instruções
+## Prática 1: Explorando Alguns Serviços/Ferramentas
+
+Acessar
+
+https://aws.amazon.com/pt/?nc2=h_lg
+
+Serviços da AWS
+
+Documentação da Amazon para leitura
+
+Login Console
+
+Todos os serviços
+
+https://aws.amazon.com/pt/console/
+
+AWS Services
+
+Serviços de Big Data
+
+Serviços de análise da AWS
+
+Explorar e estudar Amazon EMR (Estrutura Hadoop Hospedada)
+
+
+
+
+
+
+
 
 * Acessar S3: https://s3.console.aws.amazon.com/s3/ 
   * Criar estrutura de data lake : _dio-live-datalake_
