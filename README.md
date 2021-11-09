@@ -56,7 +56,7 @@ Criar Buckets
 ![image](https://user-images.githubusercontent.com/88436657/140668481-8ace8bcb-35f0-4b3c-965e-2177a3b4e6b3.png)
 ![image](https://user-images.githubusercontent.com/88436657/140668492-8d9389b7-5ec1-4b93-b2fb-b15abfe5d0ab.png)
 
-
+Instruções do Professor;
 
 * Acessar S3: https://s3.console.aws.amazon.com/s3/ 
   * Criar estrutura de data lake : _dio-live-datalake_
@@ -64,6 +64,7 @@ Criar Buckets
     * _data_
     * _output_
     * _temp_
+    
 * Acessar EMR: https://console.aws.amazon.com/elasticmapreduce/
     * O cluster será criado pelo MrJob e não pelo console
     * Infraestrutura como código 
