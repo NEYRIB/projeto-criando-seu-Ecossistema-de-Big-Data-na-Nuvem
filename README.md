@@ -76,6 +76,10 @@ Instruções do Professor;
    * My Security Credentials: https://console.aws.amazon.com/iam/home?region={region}#/security_credentials
    * Access Keys - Create new access key
    * Fazer download - única chance de visualizar
+
+![image](https://user-images.githubusercontent.com/88436657/141016025-03a04db5-dc35-478d-98e4-36404429310d.png)
+
+
 * Ambiente linux
    * Criar ambiente virtual python: _virtualenv --python=python3.6 venv_diolive_
    * Acessar com o vs code
@@ -92,4 +96,12 @@ Instruções do Professor;
   * _nano ~/.mrjob.conf_
   * _python3 dio-live-wordcount-test.py -r emr s3://{your_s3_bucket_name}/data/SherlockHolmes.txt --output-dir=s3://{your_s3_bucket_name}/output/logs1 --cloud-tmp-dir=s3://{your_s3_bucket_name}/temp/_
 
+![image](https://user-images.githubusercontent.com/88436657/141016703-51cab614-30dc-4669-a9f1-a226f1818a66.png)
+
+
+![image](https://user-images.githubusercontent.com/88436657/141016769-59f9b9b4-687b-4ec5-9bac-cd753d28cf82.png)
+
+![image](https://user-images.githubusercontent.com/88436657/141016818-63396380-37d9-4654-abcf-1633cde49eff.png)
+
+![image](https://user-images.githubusercontent.com/88436657/141016866-16ed8d94-6a8d-4dcd-9122-23e1b7bbc9ad.png)
 
